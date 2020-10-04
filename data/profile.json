@@ -1,9 +1,8 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+98 912 899 93 53",
+    "email": "p.nasirimehr@gmail.com",
+    "location": "Tehran, Iran"
   },
   "skills": [
     {
@@ -202,16 +201,10 @@
   "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
-    {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "K. N. TOOSI UNIVERSITY OF TECHNOLOGY",
+      "degree": "Computer Engineering",
+      "start": "2016",
+      "end": "Present Day"
     }
   ],
   "experience": [
@@ -267,35 +260,23 @@
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://www.linkedin.com/in/parsa-nasirimehr-3547b9168/"
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://twitter.com/ParsaNasirimehr"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://github.com/TheRogue76"
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/parsanasirimehr/"
     }
   ],
-  "role": "Technologist",
+  "role": "Software Engineer",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -304,5 +285,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Parsa Nasirimehr"
 }
